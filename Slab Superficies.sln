@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Slab Superficies", "Slab Superficies\Slab Superficies.vbproj", "{7F736295-F02C-457C-B7AE-4A26C4124B15}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Slab Superficies Setup", "Slab Superficies Setup\Slab Superficies Setup.vdproj", "{DC8537BB-4436-496C-A37D-3D2C05FE1CA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F736295-F02C-457C-B7AE-4A26C4124B15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F736295-F02C-457C-B7AE-4A26C4124B15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F736295-F02C-457C-B7AE-4A26C4124B15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F736295-F02C-457C-B7AE-4A26C4124B15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC8537BB-4436-496C-A37D-3D2C05FE1CA4}.Debug|Any CPU.ActiveCfg = Debug
+		{DC8537BB-4436-496C-A37D-3D2C05FE1CA4}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C413484-9C30-45E1-B57F-7A23180EE588}
+	EndGlobalSection
+EndGlobal
