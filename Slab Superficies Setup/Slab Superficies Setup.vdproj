@@ -375,15 +375,15 @@
         {
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:スラブ面積"
-        "ProductCode" = "8:{538B940A-1F98-481D-85AA-AFC6696FC5BD}"
-        "PackageCode" = "8:{F1DBCF4F-9D56-46FB-BA08-E94D70FDC216}"
+        "ProductCode" = "8:{C63F920A-510E-45FF-A5C8-CF7DE4E88506}"
+        "PackageCode" = "8:{6A3B4E39-FC7F-4018-8D32-9F6D844E53A7}"
         "UpgradeCode" = "8:{606C1B4F-A974-4BFC-A780-1B0D0478532A}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:TRUE"
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:FALSE"
-        "ProductVersion" = "8:22.10.31"
+        "ProductVersion" = "8:22.11.1"
         "Manufacturer" = "8:YAN"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:"
@@ -935,7 +935,7 @@
         {
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_13DD3DA460454885A482C31DBD7C0EB7"
             {
-            "SourcePath" = "8:..\\Slab Superficies\\obj\\Debug\\Slab Superficies.exe"
+            "SourcePath" = "8:..\\Slab Superficies\\obj\\Release\\Slab Superficies.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_F967AA4CC60B491E899EA421889571A8"
