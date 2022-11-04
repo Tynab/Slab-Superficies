@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{7F736295-F02C-457C-B7AE-4A26C4124B15}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>Slab_Superficies.ModuleMain</StartupObject>
+    <StartupObject>Slab_Superficies.Main</StartupObject>
     <RootNamespace>Slab_Superficies</RootNamespace>
     <AssemblyName>Slab Superficies</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -95,7 +95,7 @@
     <Compile Include="Control\FrmUpdate.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ModuleMain.vb" />
+    <Compile Include="Script\Main.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
