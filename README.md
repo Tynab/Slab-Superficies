@@ -1,5 +1,5 @@
-# SLAB SUPERFICIES SOLUTION
-Solution to help 西山 team of エマール group calculate superficies of multi スラブ.
+# SLAB SUPERFICIES TOOL
+Tool to help 西山 team of エマール group calculate superficies of multi スラブ.
 
 ## MASK
 <p align="center">
